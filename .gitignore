@@ -1,0 +1,6 @@
+.venv/
+github-access-token
+orgs.list
+repos.list
+out/
+
